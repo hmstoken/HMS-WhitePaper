@@ -139,9 +139,9 @@ The HMC will be re-issued on a yearly basis and the re-issuing amount will be eq
 
 ### Team
 
-The development of HMS will be supported by Qfund’s team (https://www.qfund.me). As one of the original member of the committee, Qfund will be obligated to the operation and the globalization works of HMS.
-
 ![qfund](https://github.com/hmstoken/HMS-WhitePaper/blob/master/qfund1.png)
+
+The development of HMS will be supported by Qfund’s team (https://www.qfund.me). As one of the original member of the committee, Qfund will be obligated to the operation and the globalization works of HMS.
 
 As the largest online crowdfunding platform in Asia, Qfund used to and will keep to help people realizing their dreams and resolving their issues. As one of the top Fintech companies, and the leading innovator, Qfund intends to promote its mutual community to all over the world using blockchain technology.
 
