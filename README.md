@@ -1,4 +1,4 @@
-#  HMS
+#  HMS ![qfund](https://github.com/hmstoken/HMS-WhitePaper/blob/master/qfund1.png)
 HMS(Hi Mutual Society) is a blockchain project developed and operated by Qfund, the largest online crowdfunding platform in Asia. HMS intends to build up a decentralized Mutual Society using blockchain technology.
 
 ## 1. social@hms
