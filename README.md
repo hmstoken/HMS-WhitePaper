@@ -160,7 +160,7 @@ Adding social features to the community
 
 Adding more available plans to the portfolio. The platform will be open to third parties, which will allow external organizations or individuals to participate the development and the operation of HMS
 
-*Incentive Engine 
+* Incentive Engine 
 
 Functioning to reward the contributions
 
