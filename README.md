@@ -66,6 +66,8 @@ In order to ensure the operation of the platform, a virtual share will be create
 
 Generally, HMC would be tradable and exchangeable. The two forms of existence of HMC, circulating and locked, is the most innovative part of the token. The circulating HMC could be traded within the system, while the locked HMC will be stored in a locked pool representing the qualification of insurance coverage and cannot be traded on any secondary market. With new users joining in the community, HMC will be gradually transferred from the Circulating Pool to the Locked Pool and a dynamic balance is expected to be built.
 
+![Tokensystem](https://github.com/hmstoken/HMS-WhitePaper/blob/master/Tokensystem.png)
+
 HMC will be used for the following purposes: 
 
 * The Certificate of Joining the Community
@@ -87,6 +89,8 @@ HMC will be created on Ethereum following ERC20 standard which is the most widel
 ### Platform Model
 Business Description
 
+![Description](https://github.com/hmstoken/HMS-WhitePaper/blob/master/Description.png)
+
 Platform Settlement Layer
 
 * The 1st Layer - DAPP
@@ -104,6 +108,8 @@ A full range of external supports including marketing, operation, promotion, and
 ![Cuser](https://github.com/hmstoken/HMS-WhitePaper/blob/master/Cuser.png)
 
 Technology Modules
+
+![Modules](https://github.com/hmstoken/HMS-WhitePaper/blob/master/Modules.png)
 
 ### Token Allocation of HMS
 
