@@ -1,9 +1,8 @@
 #  HMS
 HMS(Hi Mutual Society) is a blockchain project developed and operated by Qfund, the largest online crowdfunding platform in Asia. HMS intends to build up a decentralized Mutual Society using blockchain technology.
 
-------
 ## 1. social@hms
-------
+
 GitHub: [github.com/hmstoken](https://github.com/hmstoken)
 
 Twitter: [twitter.com/HMSCommunity](https://twitter.com/HMSCommunity)
@@ -16,9 +15,8 @@ Facebooke: [facebook.com/HMStoken/](https://www.facebook.com/HMStoken/)
 
 Wechat: HMSGlobal
 
-------
 ## 2. White Paper
-------
+
 ### Mission Statement
 Blockchain, as an emerging technology, is dramatically overturning the way we think. Not only the technology innovations, blockchain brings real changes to existing business models and even affects our daily life.
 
@@ -137,9 +135,9 @@ The development of HMS will be supported by Qfund’s team (https://www.qfund.me
 
 As the largest online crowdfunding platform in Asia, Qfund used to and will keep to help people realizing their dreams and resolving their issues. As one of the top Fintech companies, and the leading innovator, Qfund intends to promote its mutual community to all over the world using blockchain technology.
 
-------
+
 ## 3. Roadmap
-------
+
 ### DAPP MVP – April 2018
 * Digital Wallet Running on Ethereum
  
