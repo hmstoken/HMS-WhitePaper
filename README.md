@@ -1,4 +1,4 @@
-#  HMS
+#  HMS White Paper
 HMS(Hi Mutual Society) is a blockchain project developed and operated by Qfund, the largest online crowdfunding platform in Asia. HMS intends to build up a decentralized Mutual Society using blockchain technology.
 
 ## 1. social@hms
