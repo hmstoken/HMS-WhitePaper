@@ -101,6 +101,8 @@ HMS team is obligated to develop the smart contracts used to maintain the operat
 
 A full range of external supports including marketing, operation, promotion, and collaboration will guarantee the business model of HMS could be validated and improved quickly.
 
+![Cuser](https://github.com/hmstoken/HMS-WhitePaper/blob/master/Cuser.png)
+
 Technology Modules
 
 ### Token Allocation of HMS
