@@ -79,9 +79,6 @@ When a loss is conformed, the smart contract will be triggered to issue the payo
 * Renewal of the Service
 For those who have already joined the community, their deposit would be gradually deducted as the system issues payouts. Users will lose the coverage when their balances are lower than the minimum requirement for a single payout. To keep the membership, users should recharge HMC to their accounts. The HMC recharged would be locked by the system. Users are able to recharge for others.
 
-* Risk Reserve Fund
-Users who join the community or receive the payout will be asked to deposit a certain amount of token into the Risk Reserve Fund. The token will be locked in the pool and used to hedge the systematic risk of HMS.
-
 Token Mechanism
 
 HMC will be created on Ethereum following ERC20 standard which is the most widely-used standard to create smart contracts and digital assets. As a ‘Turing-complete' programming language, Ethereum will ensure the system is autonomous and decentralized. 
@@ -113,8 +110,6 @@ Technology Modules
 
 ### Token Allocation of HMS
 
-* Total Supply and Allocation Plan
-
 The total supply of HMC would be 1,000,000,000
 
 The allocation of HMC:
@@ -126,16 +121,6 @@ The allocation of HMC:
 40% - 400 million – Gradually issued by the incentive engine to reward individuals or organizations who make contributions to the community
 
 20% - 200 million – Issued to the founding and the development team to reward their work of product design, R&D, and further operation.
-
-* Re-issuance Mechanism of HMC
-
-The HMC will be re-issued on a yearly basis and the re-issuing amount will be equal to the HMC locked in Risk Reserve Fund last year.
-
-60% - To maintain the operation of incentive engine
-
-30% - To support the committee
-
-10% - To maintain the operation and the development of HMS
 
 ### Team
 
