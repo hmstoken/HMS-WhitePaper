@@ -165,5 +165,5 @@ The Globalization of Existing Decentralized Mutual Community
 
 ## Early Investors
 
-![IDG](https://github.com/hmstoken/HMS-WhitePaper/blob/master/IDG.png) ![danhua](https://github.com/hmstoken/HMS-WhitePaper/blob/master/danhua.png)
+![IDG](https://github.com/hmstoken/HMS-WhitePaper/blob/master/idg+danhua.png) 
 
