@@ -162,3 +162,8 @@ Functioning to reward the contributions
 ### Public Beta of DAPP – 2019 Q1
 
 The Globalization of Existing Decentralized Mutual Community 
+
+## Early Investors
+
+![IDG](https://github.com/hmstoken/HMS-WhitePaper/blob/master/IDG.png) ![danhua](https://github.com/hmstoken/HMS-WhitePaper/blob/master/danhua.png)
+
