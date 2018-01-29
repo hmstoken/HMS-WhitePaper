@@ -130,6 +130,10 @@ The development of HMS will be supported by Qfund’s team (https://www.qfund.me
 
 As the largest online crowdfunding platform in Asia, Qfund used to and will keep to help people realizing their dreams and resolving their issues. As one of the top Fintech companies, and the leading innovator, Qfund intends to promote its mutual community to all over the world using blockchain technology.
 
+### Early Investors
+
+![IDG](https://github.com/hmstoken/HMS-WhitePaper/blob/master/idg+danhua.png) 
+
 
 ## 3. Roadmap
 
@@ -163,7 +167,4 @@ Functioning to reward the contributions
 
 The Globalization of Existing Decentralized Mutual Community 
 
-## Early Investors
-
-![IDG](https://github.com/hmstoken/HMS-WhitePaper/blob/master/idg+danhua.png) 
 
