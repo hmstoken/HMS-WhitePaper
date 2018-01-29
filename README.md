@@ -132,7 +132,7 @@ As the largest online crowdfunding platform in Asia, Qfund used to and will keep
 
 ### Early Investors
 
-![IDG](https://github.com/hmstoken/HMS-WhitePaper/blob/master/idg+danhua.png) 
+![IDG](https://github.com/hmstoken/HMS-WhitePaper/blob/master/idg+danhua+inb.png) 
 
 
 ## 3. Roadmap
